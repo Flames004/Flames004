@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flames004
+- 👋 Hi, I’m @Flames004 aka Deepak Shukla
 - 👀 I’m interested in web development, UI UX designing, astronomy and software development
 - 🌱 I’m currently learning C++, React.js, Python, Frontend Web Development
 
