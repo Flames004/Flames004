@@ -1,37 +1,59 @@
-![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
-<h1 align="center">Hi 👋, I'm Deepak Shukla</h1>
-<h3 align="center">A physics geek entering the digital verse having Frontend Web Development in his arsenal.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+![Welcome Banner](https://trisya.com/myimg/child/Website%20Design.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flames004&label=Profile%20views&color=0e75b6&style=flat" alt="flames004" /> </p>
+<h1 align="center">Hey there! 👋 I'm Deepak Shukla</h1>
+<h3 align="center">A Physics Enthusiast Exploring the Frontiers of Web Development</h3>
 
-<p align="left"> <a href="https://twitter.com/deepaks00004" target="blank"><img src="https://img.shields.io/twitter/follow/deepaks00004?logo=twitter&style=for-the-badge" alt="deepaks00004" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Video Streaming Website**
+### 🚀 About Me
+- 🧑‍🔬 **Physics Geek** blending scientific curiosity with digital creativity
+- 💻 Passionate about **Frontend Development** & **User Experience Design**
 
-- 🌱 I’m currently learning **React, Tailwind, DSA**
+### 🌱 Current Learning Journey
+- 📚 Deep-diving into **NextJS** and **Postman API**
+- 🔍 Honing skills in **Data Structures & Algorithms** for efficiency and performance
+- 🌐 Experimenting with web accessibility to enhance user inclusivity
 
-- 🤝 I’m looking for help with **Frontend, UI/UX Designing**
+---
 
-- 💬 Ask me about **JavaScript, Python, C++**
+### 🛠️ Tech Stack
+| **Frontend** | **Backend** | **Tools** | **Languages** |
+|:------------:|:-----------:|:---------:|:-------------:|
+| ![HTML](https://img.icons8.com/color/48/html-5.png) ![CSS](https://img.icons8.com/color/48/css3.png) ![JavaScript](https://img.icons8.com/color/48/javascript.png) ![TypeScript](https://img.icons8.com/color/48/typescript.png) ![Tailwind CSS](https://img.icons8.com/color/48/tailwind_css.png) ![React](https://img.icons8.com/ios-filled/50/react-native.png) ![Next.js](https://img.icons8.com/fluency/48/nextjs.png) | <a href="https://www.djangoproject.com/" target="_blank"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" width="40" height="40" /></a> <img src="https://img.icons8.com/ios-filled/50/flask.png" alt="Flask" width="40" height="40" /> <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" /> | ![Git](https://img.icons8.com/color/48/git.png) ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png) | ![Python](https://img.icons8.com/color/48/python.png) <a href="https://isocpp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40" /></a> ![C](https://img.icons8.com/color/48/c-programming.png) ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) |
 
-- 📫 How to reach me **deepakshukla2442@gmail.com**
+---
 
-- ⚡ Fun fact **I still feel like watching anime.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/deepaks00004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepaks00004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepak-shukla-320992249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-shukla-320992249" height="30" width="40" /></a>
-<a href="https://instagram.com/flames.of.wisdom_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flames.of.wisdom_04" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/flames_004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="flames_004" height="30" width="40" /></a>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flames004&show_icons=true&locale=en&layout=compact" alt="flames004" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flames004&show_icons=true&locale=en" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flames004&" alt="GitHub Streak" width="48%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flames004&show_icons=true&locale=en&layout=compact" alt="flames004" /></p>
+### 💬 Let's Connect!
+<p align="center">
+  <a href="mailto:deepakshukla2442@gmail.com"><img src="https://img.icons8.com/fluency/48/email.png" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/deepak004/"><img src="https://img.icons8.com/fluency/48/linkedin-circled.png" alt="LinkedIn" /></a>
+  <a href="https://x.com/DeepakS00004"><img src="https://img.icons8.com/fluency/48/twitter-circled.png" alt="X" /></a>
+  <a href="https://www.instagram.com/flames.of.wisdom_04/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flames004&show_icons=true&locale=en" alt="flames004" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flames004&" alt="flames004" /></p>
+### ⚡ Fun Facts & Interests
+- 🎥 Binge-watching anime and exploring sci-fi classics
+- 🎨 A keen interest in digital art and minimalistic design  
+- 🧩 Puzzle-solving, whether in code or in life  
+- ♟️ Caro Kann is all about pawns
+
+---
+
+### 🤝 Open to Collaboration
+If you’re working on anything that aligns with frontend development, UI/UX design, or just want to connect—let's make something great together!
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check_It_Out-orange?style=for-the-badge&logo=appveyor)](#)
+[![Resume](https://img.shields.io/badge/Resume-View_or_Download-blue?style=for-the-badge&logo=appveyor)](#)
+
+---
