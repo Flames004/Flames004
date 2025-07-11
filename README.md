@@ -15,8 +15,6 @@
   />
 </picture>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Deepak+Shukla+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Physics+Enthusiast+%E2%9C%A8;Anime+Freak+%F0%9F%8E%A5;Problem+Solver+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
@@ -67,8 +65,6 @@ If you’re working on anything that aligns with frontend development, UI/UX des
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Check_It_Out-orange?style=for-the-badge&logo=appveyor)](https://deepak-dev.netlify.app/)
 [![Resume](https://img.shields.io/badge/Resume-View_or_Download-blue?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/183ccCkXGhwVXEGZYTY8uQsXken5mRMT8/view?usp=drive_link)
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=flames004&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=flames004&style=flat-square&color=blue" alt="Profile views" height="64" />
 
 ---
