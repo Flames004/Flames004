@@ -40,6 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=flames004&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flames004&layout=compact&theme=radical" width="40%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=flames004&theme=radical&timezone=Asia/Kolkata" width="48%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flames004&bg_color=0D1117&color=EC4899&line=8B5CF6&point=3B82F6&area=true&hide_border=true&theme=radical" width="100%" />
 </p>
 
 ---
