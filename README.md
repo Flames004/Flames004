@@ -1,71 +1,54 @@
-![Welcome Banner](https://trisya.com/myimg/child/Website%20Design.gif)
+# Deepak Shukla
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+### Full-Stack Developer | Web Applications | API Engineering
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Deepak+Shukla+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;Physics+Enthusiast+%E2%9C%A8;Anime+Freak+%F0%9F%8E%A5;Problem+Solver+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
-</p>
+I build web applications and backend systems, focusing on practical solutions, clean implementation, and maintainable software.
 
-### 🚀 About Me
-- 🧠 **Physics Geek** exploring logic, code & cosmos
-- 💡 **Frontend Wizard** turning designs into interactive UIs
-- 🌱 Currently diving into **Next.js** and **Postman APIs**
-- 🧠 Practicing **DSA** for performance-focused solutions
-- 🧪 Always experimenting with **UI accessibility & motion design**
-
----
-### 🛠️ Tech Stack
-
-| 💻 **Frontend** | ⚙️ **Backend** | 🧰 **Tools** | 🧑‍💻 **Languages** |
-|:---------------:|:--------------:|:------------:|:-----------------:|
-| <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" title="HTML5"/> <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" title="CSS3"/> <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript"/> <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" title="TypeScript"/> <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/> <img src="https://img.icons8.com/ios-filled/50/react-native.png" alt="React" title="ReactJS"/> <img src="https://img.icons8.com/fluency/48/nextjs.png" alt="Next.js" title="Next.js"/> | <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="40" height="40"/> <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" alt="Django" title="Django" width="40"/> <img src="https://img.icons8.com/ios-filled/50/flask.png" alt="Flask" title="Flask" width="40"/> <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" title="MySQL"/> | <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/> <img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub" title="GitHub"/> | <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python"/> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" title="C++" width="40"/> <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C"/> <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java"/> |
+- Developing full-stack applications using **JavaScript, TypeScript, React, Next.js and Node.js**
+- Interested in **backend architecture, API development and database-driven systems**
+- Exploring **system design, application security and software engineering practices**
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flames004&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flames004&layout=compact&theme=radical" width="40%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=flames004&theme=radical&timezone=Asia/Kolkata" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flames004&bg_color=0D1117&color=EC4899&line=8B5CF6&point=3B82F6&area=true&hide_border=true&theme=radical" width="100%" />
-</p>
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-### ⚡ Fun Facts & Interests
-- 🎥 Binge-watching anime and exploring sci-fi classics
-- 🎨 A keen interest in digital art and minimalistic design  
-- 🧩 Puzzle-solving, whether in code or in life  
-- ♟️ Caro Kann is all about pawns
+## Connect With Me
 
----
-
-### 🎖️ Developer Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=flames004&theme=dracula" />
-</p>
-
----
-
-### 🤝 Open to Collaboration
-If you’re working on anything that aligns with frontend development, UI/UX design, or just want to connect—let's make something great together!
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check_It_Out-orange?style=for-the-badge&logo=appveyor)](https://deepak-dev.netlify.app/)
-[![Resume](https://img.shields.io/badge/Resume-View_or_Download-blue?style=for-the-badge&logo=appveyor)](https://drive.google.com/file/d/183ccCkXGhwVXEGZYTY8uQsXken5mRMT8/view?usp=drive_link)
-<img src="https://komarev.com/ghpvc/?username=flames004&style=flat-square&color=blue" alt="Profile views" height="64" />
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://deepak-dev.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Flames004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Flames004)
